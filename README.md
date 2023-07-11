@@ -1,14 +1,3 @@
-# whatsapp_chat_summary
-Python software that summarizes WhatsApp group data
-As part of a project I am doing for a large municipality, I am interested in analyzing trends & phenomenas in "neighborhood" WhatsApp groups (in a district chosen by the municipality).
-This app allows me to convert raw information exported from WhatsApp into a Pandas Datd Frames and at the same time process the "group notifications" in a way that allows me to reverse engineer information about leaving and joining participants.
-
-User please note:
-The software is adapted to raw information downloaded from WhatsApp in English settings, the information structure may vary if it is downloaded from WhatsApp in another language settings.
-It is important to check the number of participants in the group chat when exporting the information from WhatsApp, since this information is not included in the raw file the app needs it for optimal use.
-
-
-NEW:
 ![logo]((images/logo.png))
 ## Introduction
 Welcome to Da-Chat WhatsApp Analyzer!
