@@ -1,4 +1,4 @@
-![logo]((images/logo.png))
+![logo](images/logo.png)
 ## Introduction
 Welcome to Da-Chat WhatsApp Analyzer!
 WhatsApp (by META) is reported to have more than 2 billion monthly active users globally, a huge amount of users that allows META to learn our usage and communication patterns.
